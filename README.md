@@ -2,7 +2,7 @@
 
 Welcome to the **D&R Quantum AI Dashboard**, a professional-grade, terminal-based stock analysis tool. This software utilizes an ensemble of Machine Learning models (RandomForest, XGBoost, and GradientBoost) alongside live Yahoo Finance data to calculate long-term market trends, volatility, and technical indicators.
 
-Created by Daniel R@1f.
+Created by Dan.
 
 ---
 
